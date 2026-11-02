@@ -1,0 +1,21 @@
+MAZE GENERATOR AND SOLVER – TEST CASES
+
+Test Case 1
+Input: 5
+Purpose: Test minimum valid maze size.
+
+Test Case 2
+Input: 10
+Purpose: Test even maze size adjustment.
+
+Test Case 3
+Input: 15
+Purpose: Test a larger odd maze size.
+
+Test Case 4
+Input: 4
+Purpose: Test invalid size below the allowed range.
+
+Test Case 5
+Input: 101
+Purpose: Test invalid size above the allowed range.
